@@ -1,0 +1,26 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Dragon’s Hearth",
+      "subtitle": "Classic Cheese Pizza",
+      "description": "Fire-baked, warm, and legendary. A timeless blend of melted mozzarella and our house-crafted sauce, forged in the heart of the oven.",
+      "price": 9.99,
+      "image": "imegies/dragons hearth pizza.png"
+    },
+    {
+      "id": 2,
+      "name": "The War Banner",
+      "subtitle": "Pepperoni Pizza",
+      "description": "Red pepperoni sigils flying over rivers of melted gold cheese. A bold standard raised for those who hunger for battle.",
+      "price": 12.99,
+      "image": "imegies/the war banner pizza.png"
+    },
+    {
+      "id": 3,
+      "name": "Beastslayer’s Bounty",
+      "subtitle": "Meat Lover’s Pizza",
+      "description": "Meats gathered from many fallen foes. A mighty feast of sausage, pepperoni, bacon, and ham — not for the faint of heart.",
+      "price": 15.99,
+      "image": "imegies/beastslayers pizza.png"
+    }
