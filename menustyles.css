@@ -140,3 +140,25 @@ body {
   background-color: #1b1b1b;
   color: #f4f1ec;
 }
+/* ===== Reviews Background ===== */
+
+body {
+  background-image: url("imegies/tavern.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+/* Dark overlay for readability */
+.about-container {
+  background-color: rgba(0, 0, 0, 0.75);
+  margin: 40px;
+  padding: 40px;
+  border-radius: 12px;
+}
+body {
+  background-image: url("imegies/tavern.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #000;
+}
